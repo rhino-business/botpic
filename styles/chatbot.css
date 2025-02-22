@@ -1,9 +1,9 @@
       .container_huge {
-		   display: grid;
-		   border: 0.02rem solid transparent;
-		   place-items: center;
-		   background: #FFFEED;
-	  }
+	  display: grid;
+	  border: 0.02rem solid transparent;
+	  place-items: center;
+	  background: #FFFEED;
+      }
       .object:hover #left {
           transform: translateY(-0.2rem) translateX(0.06rem) rotate(10deg);
           transition: 0.7s;
